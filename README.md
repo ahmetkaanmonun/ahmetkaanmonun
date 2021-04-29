@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 I'm Ahmet Kaan!
-I currently work at NETAS as a Software QA Intern
+I currently work at NETAS as a Software QA Engineer Intern
 
 Contact me !
 
