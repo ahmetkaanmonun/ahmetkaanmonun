@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/ahmetkaanmonun?style=social)](https://github.com/CerenBdk?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ahmetkaanmonun?style=social)](https://github.com/ahmetkaanmonun?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/ahmetkaanmonun?style=social)
 ![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ahmetkaanmonun.visitor-badge)
 
