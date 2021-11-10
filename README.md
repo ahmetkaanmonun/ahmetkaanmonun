@@ -1,25 +1,19 @@
-[![GitHub followers](https://img.shields.io/github/followers/ahmetkaanmonun?style=social)](https://github.com/ahmetkaanmonun?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/ahmetkaanmonun?style=social)
-![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ahmetkaanmonun.visitor-badge)
+<h1 align="center">Hi 👋, I'm Ahmet Kaan Mönün</h1>
+<h3 align="center">A passionate QA Engineer & Frontend Developer from Turkey</h3>
 
-### Hi there 👋
-I'm Ahmet Kaan!
-I currently work at NETAS as a Software QA Engineer Intern,and I'm working on Frontend Techs.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetkaanmonun&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetkaanmonun" /> </p>
 
-Contact me !
+- 🌱 I’m currently learning **React.Js**
 
-<a href="https://www.linkedin.com/in/ahmetkaanmonun/" target="_blank" rel="nofollow"><img alt="Kaan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:ahmetkaan.monun@outlook.com" target="_blank" rel="nofollow"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaanmonun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **HTML,CSS,JS,NODE JS,EXPRESS JS,EJS**
 
-## Technologies & Tools 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<img alt="C#" src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white"></img>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white"></img>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white"></img>
-<img alt="Dart" src="https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=white"></img>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkaanmonun&show_icons=true&locale=en&layout=compact" alt="ahmetkaanmonun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkaanmonun&show_icons=true&locale=en" alt="ahmetkaanmonun" /></p>
