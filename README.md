@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kaan Mönün</h1>
-<h3 align="center">A passionate QA Engineer & Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetkaanmonun&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetkaanmonun" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Frontend Technologies**
+- 💬 Ask me about **Fullstack Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
